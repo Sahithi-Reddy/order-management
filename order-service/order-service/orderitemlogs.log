@@ -1,0 +1,15 @@
+2020-07-07 21:35:20.918  INFO 3060 --- [Test worker] c.d.order.OrderServiceApplicationTests   : No active profile set, falling back to default profiles: default
+2020-07-07 21:35:22.749  INFO 3060 --- [Test worker] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-07-07 21:35:22.851  INFO 3060 --- [Test worker] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.12.Final
+2020-07-07 21:35:23.034  INFO 3060 --- [Test worker] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-07-07 21:35:23.177  INFO 3060 --- [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-07-07 21:35:23.272  INFO 3060 --- [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-07-07 21:35:23.300  INFO 3060 --- [Test worker] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-07-07 21:35:24.231  INFO 3060 --- [Test worker] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-07-07 21:35:25.088  WARN 3060 --- [Test worker] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-07 21:35:25.089  INFO 3060 --- [Test worker] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-07 21:35:25.098  WARN 3060 --- [Test worker] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2020-07-07 21:35:25.099  INFO 3060 --- [Test worker] c.n.c.sources.URLConfigurationSource     : To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-07-07 21:35:26.480  INFO 3060 --- [Test worker] c.d.order.OrderServiceApplicationTests   : Started OrderServiceApplicationTests in 6.594 seconds (JVM running for 8.07)
+2020-07-07 21:35:26.613  INFO 3060 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-07-07 21:35:26.635  INFO 3060 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

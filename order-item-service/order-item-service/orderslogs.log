@@ -1,0 +1,27 @@
+2020-07-07 21:34:56.199  INFO 2408 --- [Test worker] c.d.o.OrderItemServiceApplicationTests   : Starting OrderItemServiceApplicationTests on ramsudheer-Latitude-E5470 with PID 2408 (started by ramsudheer in /home/ramsudheer/Downloads/gc/final/sdf/order-management/order-item-service)
+2020-07-07 21:34:56.202  INFO 2408 --- [Test worker] c.d.o.OrderItemServiceApplicationTests   : No active profile set, falling back to default profiles: default
+2020-07-07 21:34:58.309  INFO 2408 --- [Test worker] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-07-07 21:34:58.533  INFO 2408 --- [Test worker] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.12.Final
+2020-07-07 21:34:58.716  INFO 2408 --- [Test worker] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-07-07 21:34:58.851  INFO 2408 --- [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-07-07 21:34:59.100  INFO 2408 --- [Test worker] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-07-07 21:34:59.140  INFO 2408 --- [Test worker] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-07-07 21:35:00.197  INFO 2408 --- [Test worker] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-07-07 21:35:01.848  INFO 2408 --- [Test worker] c.d.o.OrderItemServiceApplicationTests   : Started OrderItemServiceApplicationTests in 6.095 seconds (JVM running for 7.547)
+2020-07-07 21:35:01.975  INFO 2408 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-07-07 21:35:01.987  INFO 2408 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-07-07 21:35:07.348  INFO 2893 --- [main] c.dbs.order.OrderItemServiceApplication  : Starting OrderItemServiceApplication on ramsudheer-Latitude-E5470 with PID 2893 (/home/ramsudheer/Downloads/gc/final/sdf/order-management/order-item-service/build/classes/java/main started by ramsudheer in /home/ramsudheer/Downloads/gc/final/sdf/order-management/order-item-service)
+2020-07-07 21:35:07.354  INFO 2893 --- [main] c.dbs.order.OrderItemServiceApplication  : No active profile set, falling back to default profiles: default
+2020-07-07 21:35:08.515  INFO 2893 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-07 21:35:08.515  INFO 2893 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-07-07 21:35:08.588  INFO 2893 --- [main] o.a.c.c.C.[.[.[/order-item-service]      : Initializing Spring embedded WebApplicationContext
+2020-07-07 21:35:08.627  INFO 2893 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-07-07 21:35:08.720  INFO 2893 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-07-07 21:35:08.855  INFO 2893 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-07-07 21:35:08.923  INFO 2893 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.12.Final
+2020-07-07 21:35:09.014  INFO 2893 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-07-07 21:35:09.149  INFO 2893 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-07-07 21:35:09.714  INFO 2893 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-07-07 21:35:10.307  INFO 2893 --- [main] c.dbs.order.OrderItemServiceApplication  : Started OrderItemServiceApplication in 3.357 seconds (JVM running for 3.693)
+2020-07-07 21:35:44.966  INFO 2893 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-07-07 21:35:44.975  INFO 2893 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
